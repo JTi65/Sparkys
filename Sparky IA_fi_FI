@@ -1,0 +1,18 @@
+# Suomenkielinen lokalisointitiedosto Sparky IA:lle.
+# Tekijänoikeus 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2017/06/06, Pavroo
+LOCAL1="Pelaa vanhoja OnLine-pelejä Internet-arkistosta\nverkkoselaimessa."
+LOCAL2="x-www-selainta ei ole asennettu!\n\nAsenna verkkoselain ja yritä uudelleen.\n\nPoistutaan..."
+### sparky-ia.desktop-tiedosto, johon käännetään
+# Name[en_US]=Internet-arkistopelit
+# Comment[en_US]=Pelaa online-arkistopelejä
+### ia-arcade.desktop-tiedosto, johon käännetään
+# Name[en_US]=Internet Arcade Games
+# Comment[en_US]=Pelaa verkkopelihallipelejä
+### ia-classicpc.desktop-tiedosto, johon käännetään
+# Name[en_US]=Klassiset PC-pelit
+# Comment[en_US]=Pelaa klassisia PC-pelejä verkossa
+### ia-msdos.desktop-tiedosto, johon käännetään
+# Name[en_US]=MS-DOS-pelit
+# Comment[en_US]=Pelaa online-MS-DOS-pelejä
